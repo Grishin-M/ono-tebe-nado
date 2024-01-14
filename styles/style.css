@@ -51,11 +51,8 @@ ul li {
 }
 
 .header__address {
-  padding-left: 124px;
-}
-
-.header__address {
   margin-top: 4px;
+  padding-left: 124px;
 }
 
 .header__address a {
